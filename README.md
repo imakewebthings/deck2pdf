@@ -18,6 +18,8 @@ Third, run this:
 phantomjs deck2png.js [yourdeckfile.html] && phantomjs png2pdf.js
 ```
 
+You'll be left with a file named `output.pdf`. If you're lucky, it looks something like your deck.
+
 ## Development
 
 The code in this repository is a spike, the result of a few hours of frustrated hacking.  A lot of the code is inspired by an old version of the wonderful [Slippy's](https://github.com/Seldaek/slippy) PDF generator.  Anyone looking to contribute might be able to glean more by looking at the history of that project.
